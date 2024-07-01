@@ -279,14 +279,14 @@ module.exports = function({ api, models }) {
         })
         return api.sendMessage(`Sent a request to the admin bot(s) !`, event.threadID);
       }
-      if (event.body && event.body.startsWith(prefix)) return api.sendMessage(`✨ApKa Group Approved Nahi Hai🙌.\n 🖤So Approved Ke LiYe Request Do, Ese 👉 ${prefix}request\n\n 💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙☜ 💫\n
-🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙ𝕣𝕚𝕪𝕒𝕟𝕤𝕙🖤\n
+      if (event.body && event.body.startsWith(prefix)) return api.sendMessage(`✨ApKa Group Approved Nahi Hai🙌.\n 🖤So Approved Ke LiYe Request Do, Ese 👉 ${prefix}request\n\n 💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞──𝘼𝙣𝙖𝙨»»💙✨☜ 💫\n
+🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ANAS🖤\n
 
-😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/priyanshu.rajput.official\n
+😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/100038053476443\n
 
 📑 Agar Approval Nahi 🙅🏻‍♂️ Mil Raha Hai To Mere Øwner🖤 Ko Direct Add Kar Sakte ho Fb Id link se 😊💖\n
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @Priyanshrajput😇`, event.threadID);
+👋For Any Kind Of Help Contact On Telegram  Username 👉 @Anas😇`, event.threadID);
     };
     switch (event.type) {
       case "message":
